@@ -1,6 +1,6 @@
 # PulseStack AI — Multi-Tenant AI Workspace SaaS
 
-**Live Demo:** https://pulsestack-ai-demo.netlify.app
+**Live Demo:** https://pulsestack-ai-demo.vercel.app
 
 A production-oriented multi-tenant AI SaaS platform featuring a **Streaming SSE AI Playground**, **Real-Time Token & Cost Metering**, **Scoped API Key Management**, and **Stripe Subscription Billing & Webhooks**.
 
