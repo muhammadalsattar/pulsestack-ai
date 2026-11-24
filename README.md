@@ -1,5 +1,7 @@
 # PulseStack AI — Multi-Tenant AI Workspace SaaS
 
+**Live Demo:** https://pulsestack-ai-demo.netlify.app
+
 A production-oriented multi-tenant AI SaaS platform featuring a **Streaming SSE AI Playground**, **Real-Time Token & Cost Metering**, **Scoped API Key Management**, and **Stripe Subscription Billing & Webhooks**.
 
 Built with **Next.js 15 (App Router, React 19, TypeScript, Tailwind CSS)** and **Python FastAPI (Pydantic v2)**. Deploying `frontend/` standalone to Vercel works out of the box via a built-in multi-tenant metering & streaming engine, or connects seamlessly to the FastAPI gateway when `FASTAPI_URL` is configured.
